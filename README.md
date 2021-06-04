@@ -2,6 +2,9 @@
 
 包谷国为平行宇宙-b13宇宙的一个国度，其他平行宇宙出入国内外无需复杂的手续以及各种程序.
 
+![pngsucai_440593_9ae79e](https://user-images.githubusercontent.com/65585627/120823314-5013f080-c57d-11eb-949d-bfbca01fefdc.png)*此为包谷国国徽
+
+
 因为此平行宇宙已与所有平行宇宙的宇宙进行了链接并接入github宇宙模块，只需连接互联网并登入包谷国网站(https://theworld210.github.io/BaoGuGuo/)  即可进入包谷国。 
 
 包谷国虽像虚拟的，但是却有“证据”证明它存在 
