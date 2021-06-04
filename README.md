@@ -8,11 +8,11 @@
 
 例如： 包谷国独有的优美环境： 
 
-
+![gaugan_output](https://user-images.githubusercontent.com/65585627/120812119-b47d8280-c572-11eb-9007-d40fa5e0054a.jpg)
 
 世界第十一大奇迹《方块》：
 
-
+![gaugan_output (1)](https://user-images.githubusercontent.com/65585627/120812134-b6dfdc80-c572-11eb-86ce-868c902e1e57.jpg)
 
 等等。
 
