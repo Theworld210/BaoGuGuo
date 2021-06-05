@@ -1,15 +1,16 @@
-# BaoGuGuo包谷国简介 
+# YinheGuo银河联合国简介  
 
-包谷国为平行宇宙-b13宇宙的一个国度，其他平行宇宙出入国内外无需复杂的手续以及各种程序.
+银河联合国为平行宇宙-b13宇宙的一个国度，其他平行宇宙出入国内外无需复杂的手续以及各种程序.
 
-![pngsucai_440593_9ae79e](https://user-images.githubusercontent.com/65585627/120823314-5013f080-c57d-11eb-949d-bfbca01fefdc.png)*此为包谷国国徽
+银河联合国为b13宇宙的各个国的总称，此联合国并不属于/不受控制于/不代表任何b13宇宙的国度，仅仅是个普通的/没用的一个b13宇宙历史记录组织而已。
 
+![pngsucai_440593_9ae79e](https://user-images.githubusercontent.com/65585627/120823314-5013f080-c57d-11eb-949d-bfbca01fefdc.png)*此为银河联合国中的包谷国的国徽
 
-因为此平行宇宙已与所有平行宇宙的宇宙进行了链接并接入github宇宙模块，只需连接互联网并登入包谷国网站(https://theworld210.github.io/BaoGuGuo/)  即可进入包谷国。 
+因为此平行宇宙已与所有平行宇宙的宇宙进行了链接并接入github宇宙模块，只需连接互联网并登入包谷国网站(https://theworld210.github.io/BaoGuGuo/)  即可进入银河联合国国。 
 
-包谷国虽像虚拟的，但是却有“证据”证明它存在 
+银河联合国虽像虚拟的，但是却有“证据”证明它存在
 
-例如： 包谷国独有的优美环境： 
+例如： 银河联合国中的包谷国独有的优美环境： 
 
 ![gaugan_output](https://user-images.githubusercontent.com/65585627/120812119-b47d8280-c572-11eb-9007-d40fa5e0054a.jpg)
 
@@ -19,4 +20,4 @@
 
 等等。
 
-“只要有网就能去包谷国当包谷国国民”————出自包谷国国王《Theworld210/BaoGuGuo/BaoGuGuo包谷国简介》
+“只要有网，就能去银河联合国当各国国民”————出自银河联合国标语《Theworld210/YinHe/YinheGuo银河联合国简介》
